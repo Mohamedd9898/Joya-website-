@@ -1,0 +1,9 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {effectivePrice} from '../src/lib/pricing';import seed from '../src/content/seed.json';import type {Service,Discount} from '../src/lib/types';
+const s=seed.services.find(s=>s.id==='websites') as Service;const now=new Date('2026-11-15T12:00:00Z');const base:Discount={id:'promo',name:'November',serviceIds:['websites'],type:'percentage',value:20,starts:'2026-11-01T00:00:00Z',ends:'2026-12-01T00:00:00Z',published:true};
+test('active 20% discount changes SAR 1500 to 1200',()=>assert.equal(effectivePrice(s,[base],now).price,1200));
+test('expiry automatically restores regular pricing',()=>assert.equal(effectivePrice(s,[base],new Date('2026-12-01T00:00:00Z')).price,1500));
+test('unpublished and future promotions do not apply',()=>{assert.equal(effectivePrice(s,[{...base,published:false}],now).price,1500);assert.equal(effectivePrice(s,[base],new Date('2026-10-01')).price,1500);});
+test('fixed and special prices clamp at zero and do not stack',()=>{assert.equal(effectivePrice(s,[{...base,type:'fixed',value:2000}],now).price,0);assert.equal(effectivePrice(s,[base,{...base,type:'special',value:1100}],now).price,1100);});
+test('bundle discount only applies in its bundle',()=>{const d={...base,bundleId:'launch'};assert.equal(effectivePrice(s,[d],now).price,1500);assert.equal(effectivePrice(s,[d],now,'launch').price,1200);});
+test('custom quotations cannot become a fabricated numeric price',()=>assert.equal(effectivePrice({...s,price:null},[base],now).price,null));
+test('content library has 18 services, 39 honest concepts and 8 material definitions each',()=>{assert.equal(seed.services.length,18);assert.equal(seed.projects.length,39);assert.equal(new Set(seed.projects.map(p=>p.id)).size,39);for(const p of seed.projects){assert.equal(p.type,'Concept Project');assert.equal(p.materials.length,8);for(const x of p.services)assert.ok(seed.services.some(s=>s.id===x));}});

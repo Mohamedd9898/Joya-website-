@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <main className="not-found"><span className="wordmark">joya®</span><p>404 / A small detour.</p><h1>Let’s get you<br/><em>back on track.</em></h1><Link className="button" href="/en">Back to JOYA ↗</Link></main>}

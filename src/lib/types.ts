@@ -1,0 +1,11 @@
+export type Locale = 'en' | 'ar';
+export type Bi = {en:string;ar:string};
+export type Service = {id:string;title:Bi;short:Bi;description:Bi;family:number;price:number|null;fullBrandingPrice?:number;starting:boolean;deliverables:Bi[];timeline:Bi;extras:Bi[];faqs:{q:Bi;a:Bi}[];cta:Bi;cover:string;gallery:string[];video:string;published:boolean;order:number};
+export type Project = {id:string;name:string;arabic:string;tagline:Bi;sector:string;type:'Concept Project'|'Client Project'|'Demo Interface';color:string;ink:string;accent:string;style:string;image:string;services:string[];story:Bi;audience:Bi;materials:Bi[];published:boolean;order:number;gallery:string[]};
+export type Discount={id:string;name:string;serviceIds:string[];bundleId?:string;type:'percentage'|'fixed'|'special';value:number;starts:string;ends:string;published:boolean};
+export type Bundle={id:string;title:Bi;description:Bi;serviceIds:string[];published:boolean};
+export type Settings={id:string;name:string;whatsapp:string;email:string;siteUrl:string;description:Bi;consultationSlots:string[]};
+export type Page={id:string;title:Bi;description:Bi;body:Bi;published:boolean};
+export type Data={services:Service[];projects:Project[];discounts:Discount[];bundles:Bundle[];pages:Page[];settings:Settings};
+export const families:Bi[]=[{en:'Branding & Business Identity',ar:'العلامة والهوية التجارية'},{en:'Websites & E-Commerce',ar:'المواقع والمتاجر الإلكترونية'},{en:'Digital Presence',ar:'الحضور الرقمي'},{en:'Restaurant & Customer Tools',ar:'أدوات المطاعم وخدمة العملاء'},{en:'Loyalty & Automation',ar:'الولاء والأتمتة'},{en:'Business Systems & Support',ar:'أنظمة الأعمال والدعم'}];
+export const sectors = [{id:'food',en:'Food & Beverage',ar:'المطاعم والمقاهي'},{id:'beauty',en:'Beauty & Wellness',ar:'الجمال والعناية'},{id:'services',en:'Services & Maintenance',ar:'الخدمات والصيانة'},{id:'construction',en:'Construction',ar:'المقاولات'},{id:'retail',en:'Retail & Online Stores',ar:'التجزئة والمتاجر'},{id:'new',en:'New Businesses',ar:'المشاريع الجديدة'}];

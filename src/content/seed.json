@@ -1,0 +1,4090 @@
+{
+  "services": [
+    {
+      "id": "branding",
+      "title": {
+        "en": "Branding & visual identity",
+        "ar": "العلامة والهوية البصرية"
+      },
+      "short": {
+        "en": "A business people recognise. A feeling they remember.",
+        "ar": "علامة يعرفها الناس، وانطباع يبقى."
+      },
+      "description": {
+        "en": "A business people recognise. A feeling they remember. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "علامة يعرفها الناس، وانطباع يبقى. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 0,
+      "price": 800,
+      "starting": true,
+      "deliverables": [
+        {
+          "en": "Logo & secondary mark",
+          "ar": "الشعار والعلامة الثانوية"
+        },
+        {
+          "en": "Colour & typography",
+          "ar": "الألوان والخطوط"
+        },
+        {
+          "en": "Brand direction & guidelines",
+          "ar": "التوجه البصري ودليل الهوية"
+        },
+        {
+          "en": "Packaging & signage options",
+          "ar": "خيارات التغليف واللوحات"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 0,
+      "fullBrandingPrice": 2500
+    },
+    {
+      "id": "company-profiles",
+      "title": {
+        "en": "Company profiles",
+        "ar": "الملفات التعريفية للشركات"
+      },
+      "short": {
+        "en": "Introduce your business with substance and confidence.",
+        "ar": "عرّف بأعمالك بوضوح وثقة."
+      },
+      "description": {
+        "en": "Introduce your business with substance and confidence. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "عرّف بأعمالك بوضوح وثقة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 0,
+      "price": 600,
+      "starting": true,
+      "deliverables": [
+        {
+          "en": "Company story & capabilities",
+          "ar": "قصة الشركة وإمكاناتها"
+        },
+        {
+          "en": "Services & selected projects",
+          "ar": "الخدمات والمشاريع المختارة"
+        },
+        {
+          "en": "Professional PDF",
+          "ar": "ملف PDF احترافي"
+        },
+        {
+          "en": "Print-ready artwork",
+          "ar": "ملفات جاهزة للطباعة"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "marketing-materials",
+      "title": {
+        "en": "Sales & marketing materials",
+        "ar": "مواد المبيعات والتسويق"
+      },
+      "short": {
+        "en": "Make every introduction work harder.",
+        "ar": "اجعل كل لقاء فرصة أفضل."
+      },
+      "description": {
+        "en": "Make every introduction work harder. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "اجعل كل لقاء فرصة أفضل. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 0,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Pitch decks & presentations",
+          "ar": "العروض التقديمية"
+        },
+        {
+          "en": "Brochures & catalogues",
+          "ar": "الكتيبات والكتالوجات"
+        },
+        {
+          "en": "Proposal & quotation templates",
+          "ar": "قوالب العروض والأسعار"
+        },
+        {
+          "en": "Product sheets & price lists",
+          "ar": "أوراق المنتجات وقوائم الأسعار"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "websites",
+      "title": {
+        "en": "Website design",
+        "ar": "تصميم المواقع"
+      },
+      "short": {
+        "en": "Your business, open to possibility.",
+        "ar": "موقع يفتح لأعمالك آفاقاً جديدة."
+      },
+      "description": {
+        "en": "Your business, open to possibility. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "موقع يفتح لأعمالك آفاقاً جديدة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 1,
+      "price": 1500,
+      "starting": true,
+      "deliverables": [
+        {
+          "en": "Up to 5 core pages in the entry scope",
+          "ar": "حتى ٥ صفحات أساسية ضمن الباقة الأولية"
+        },
+        {
+          "en": "Mobile & tablet design",
+          "ar": "تصميم للجوال والأجهزة اللوحية"
+        },
+        {
+          "en": "WhatsApp, forms & Google Maps",
+          "ar": "واتساب والنماذج وخرائط جوجل"
+        },
+        {
+          "en": "Basic SEO & launch assistance",
+          "ar": "تهيئة أساسية لمحركات البحث ودعم الإطلاق"
+        },
+        {
+          "en": "Domain connection & SSL guidance",
+          "ar": "ربط النطاق وإرشادات شهادة الأمان"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 3
+    },
+    {
+      "id": "client-admin",
+      "title": {
+        "en": "Your own editing system",
+        "ar": "نظام إدارة محتواك"
+      },
+      "short": {
+        "en": "You update the content. We protect the design.",
+        "ar": "حدّث المحتوى، ونحافظ نحن على التصميم."
+      },
+      "description": {
+        "en": "You update the content. We protect the design. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "حدّث المحتوى، ونحافظ نحن على التصميم. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 1,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Text, photos & services",
+          "ar": "النصوص والصور والخدمات"
+        },
+        {
+          "en": "Prices, hours & offers",
+          "ar": "الأسعار والأوقات والعروض"
+        },
+        {
+          "en": "Menus, products & projects",
+          "ar": "القوائم والمنتجات والمشاريع"
+        },
+        {
+          "en": "Secure roles & structured editing",
+          "ar": "صلاحيات آمنة وتحرير منظم"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 4
+    },
+    {
+      "id": "ecommerce",
+      "title": {
+        "en": "E-commerce",
+        "ar": "التجارة الإلكترونية"
+      },
+      "short": {
+        "en": "From a first look to a first order.",
+        "ar": "من أول زيارة إلى أول طلب."
+      },
+      "description": {
+        "en": "From a first look to a first order. We define the right scope for your business, design it with care, and help your team use it confidently. Independent custom commerce is available; Shopify or Salla are not mandatory. Advanced projects are quoted separately.",
+        "ar": "من أول زيارة إلى أول طلب. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة. تتوفر متاجر مستقلة مخصصة؛ استخدام شوبيفاي أو سلة ليس إلزامياً. المشاريع المتقدمة تُسعّر بشكل منفصل."
+      },
+      "family": 1,
+      "price": 3000,
+      "starting": true,
+      "deliverables": [
+        {
+          "en": "Storefront, products & categories",
+          "ar": "واجهة المتجر والمنتجات والتصنيفات"
+        },
+        {
+          "en": "Cart & gateway checkout",
+          "ar": "السلة والدفع عبر بوابة آمنة"
+        },
+        {
+          "en": "Shipping & order management",
+          "ar": "الشحن وإدارة الطلبات"
+        },
+        {
+          "en": "Inventory, promotions & reporting",
+          "ar": "المخزون والعروض والتقارير"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 5
+    },
+    {
+      "id": "google-business",
+      "title": {
+        "en": "Google Business & Maps",
+        "ar": "نشاطك على جوجل والخرائط"
+      },
+      "short": {
+        "en": "Be easier to find. Make the next step obvious.",
+        "ar": "سهّل العثور عليك والوصول إليك."
+      },
+      "description": {
+        "en": "Be easier to find. Make the next step obvious. We define the right scope for your business, design it with care, and help your team use it confidently. Profile optimisation does not guarantee search rankings.",
+        "ar": "سهّل العثور عليك والوصول إليك. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة. تحسين الملف لا يضمن ترتيباً معيناً في نتائج البحث."
+      },
+      "family": 2,
+      "price": 800,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Profile, categories & description",
+          "ar": "الملف والتصنيفات والوصف"
+        },
+        {
+          "en": "Hours, location & contact details",
+          "ar": "الأوقات والموقع وبيانات التواصل"
+        },
+        {
+          "en": "Photos, services & website",
+          "ar": "الصور والخدمات والموقع الإلكتروني"
+        },
+        {
+          "en": "Review link & basic optimisation",
+          "ar": "رابط التقييم والتحسين الأساسي"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 6
+    },
+    {
+      "id": "whatsapp-business",
+      "title": {
+        "en": "WhatsApp Business setup",
+        "ar": "إعداد واتساب للأعمال"
+      },
+      "short": {
+        "en": "A more professional hello.",
+        "ar": "بداية تواصل أكثر احترافية."
+      },
+      "description": {
+        "en": "A more professional hello. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "بداية تواصل أكثر احترافية. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 2,
+      "price": 500,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Business profile & hours",
+          "ar": "الملف التجاري وساعات العمل"
+        },
+        {
+          "en": "Greeting & away messages",
+          "ar": "رسائل الترحيب وخارج الدوام"
+        },
+        {
+          "en": "Quick replies & catalogue",
+          "ar": "الردود السريعة والكتالوج"
+        },
+        {
+          "en": "Website & business links",
+          "ar": "روابط الموقع والنشاط"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 7
+    },
+    {
+      "id": "social-starter",
+      "title": {
+        "en": "Social media starter",
+        "ar": "انطلاقة منصات التواصل"
+      },
+      "short": {
+        "en": "Show up consistently, from the first post.",
+        "ar": "حضور متناسق من أول منشور."
+      },
+      "description": {
+        "en": "Show up consistently, from the first post. We define the right scope for your business, design it with care, and help your team use it confidently. This is setup and starter branding, not ongoing monthly management.",
+        "ar": "حضور متناسق من أول منشور. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة. هذه خدمة إعداد وهوية أولية، ولا تشمل إدارة شهرية مستمرة."
+      },
+      "family": 2,
+      "price": 1200,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Instagram, TikTok, Snapchat or Facebook setup",
+          "ar": "إعداد إنستغرام أو تيك توك أو سناب شات أو فيسبوك"
+        },
+        {
+          "en": "Bios & contact information",
+          "ar": "النبذة وبيانات التواصل"
+        },
+        {
+          "en": "Profile imagery & visual consistency",
+          "ar": "صور الحسابات واتساق الهوية"
+        },
+        {
+          "en": "Starter design templates",
+          "ar": "قوالب تصميم أولية"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 8
+    },
+    {
+      "id": "digital-setup",
+      "title": {
+        "en": "Business digital setup",
+        "ar": "التأسيس الرقمي للأعمال"
+      },
+      "short": {
+        "en": "All the small connections. One joined-up business.",
+        "ar": "كل التفاصيل التقنية، في منظومة واحدة."
+      },
+      "description": {
+        "en": "All the small connections. One joined-up business. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "كل التفاصيل التقنية، في منظومة واحدة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 2,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Domain, hosting & business email",
+          "ar": "النطاق والاستضافة والبريد المهني"
+        },
+        {
+          "en": "SSL, analytics & forms",
+          "ar": "الأمان والتحليلات والنماذج"
+        },
+        {
+          "en": "Google & social connections",
+          "ar": "ربط جوجل ومنصات التواصل"
+        },
+        {
+          "en": "Basic SEO & technical configuration",
+          "ar": "التهيئة الأساسية لمحركات البحث والإعداد التقني"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 9
+    },
+    {
+      "id": "restaurant-tools",
+      "title": {
+        "en": "Restaurant & café tools",
+        "ar": "أدوات المطاعم والمقاهي"
+      },
+      "short": {
+        "en": "Good taste, before the first bite.",
+        "ar": "تجربة شهية، قبل أول لقمة."
+      },
+      "description": {
+        "en": "Good taste, before the first bite. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "تجربة شهية، قبل أول لقمة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 3,
+      "price": 500,
+      "starting": true,
+      "deliverables": [
+        {
+          "en": "Printed & digital menu design",
+          "ar": "تصميم القوائم المطبوعة والرقمية"
+        },
+        {
+          "en": "Arabic & English QR menus",
+          "ar": "قوائم QR بالعربية والإنجليزية"
+        },
+        {
+          "en": "Categories, prices & availability",
+          "ar": "التصنيفات والأسعار والتوفر"
+        },
+        {
+          "en": "Optional ordering, pickup & payments",
+          "ar": "خيارات الطلب والاستلام والدفع"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 10
+    },
+    {
+      "id": "booking",
+      "title": {
+        "en": "Booking & appointments",
+        "ar": "الحجوزات والمواعيد"
+      },
+      "short": {
+        "en": "Less back-and-forth. More booked appointments.",
+        "ar": "رسائل أقل، ومواعيد أكثر تنظيماً."
+      },
+      "description": {
+        "en": "Less back-and-forth. More booked appointments. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "رسائل أقل، ومواعيد أكثر تنظيماً. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 3,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Services, staff & time selection",
+          "ar": "اختيار الخدمة والموظف والوقت"
+        },
+        {
+          "en": "Availability & appointment requests",
+          "ar": "التوفر وطلبات المواعيد"
+        },
+        {
+          "en": "Confirmations & WhatsApp connection",
+          "ar": "التأكيدات وربط واتساب"
+        },
+        {
+          "en": "Scheduling dashboard",
+          "ar": "لوحة إدارة المواعيد"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 11
+    },
+    {
+      "id": "loyalty",
+      "title": {
+        "en": "JOYA Loyalty",
+        "ar": "ولاء جويا"
+      },
+      "short": {
+        "en": "Give your regulars a reason to return.",
+        "ar": "امنح عملاءك سبباً للعودة."
+      },
+      "description": {
+        "en": "Give your regulars a reason to return. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "امنح عملاءك سبباً للعودة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 4,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "QR signup with mobile number",
+          "ar": "انضمام عبر QR برقم الجوال"
+        },
+        {
+          "en": "Digital stamps, visits or points",
+          "ar": "أختام أو زيارات أو نقاط رقمية"
+        },
+        {
+          "en": "Staff-approved rewards",
+          "ar": "مكافآت يعتمدها الموظفون"
+        },
+        {
+          "en": "No EPOS required for the basic system",
+          "ar": "النظام الأساسي لا يتطلب ربط نقاط البيع"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 12
+    },
+    {
+      "id": "whatsapp-automation",
+      "title": {
+        "en": "WhatsApp automation",
+        "ar": "أتمتة واتساب"
+      },
+      "short": {
+        "en": "Keep the conversation moving.",
+        "ar": "اجعل المحادثة تسير بسلاسة."
+      },
+      "description": {
+        "en": "Keep the conversation moving. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "اجعل المحادثة تسير بسلاسة. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 4,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Enquiry & menu flows",
+          "ar": "مسارات الاستفسارات والقوائم"
+        },
+        {
+          "en": "Booking & order requests",
+          "ar": "طلبات الحجز والطلب"
+        },
+        {
+          "en": "Pickup & staff notifications",
+          "ar": "إشعارات الاستلام والموظفين"
+        },
+        {
+          "en": "Loyalty messages & follow-ups",
+          "ar": "رسائل الولاء والمتابعة"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 13
+    },
+    {
+      "id": "business-systems",
+      "title": {
+        "en": "Custom business systems",
+        "ar": "أنظمة أعمال مخصصة"
+      },
+      "short": {
+        "en": "A calmer way to run a busy business.",
+        "ar": "طريقة أكثر سلاسة لإدارة يوم مزدحم."
+      },
+      "description": {
+        "en": "A calmer way to run a busy business. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "طريقة أكثر سلاسة لإدارة يوم مزدحم. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 5,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Customer & staff portals",
+          "ar": "بوابات العملاء والموظفين"
+        },
+        {
+          "en": "Orders & service requests",
+          "ar": "الطلبات وطلبات الخدمة"
+        },
+        {
+          "en": "Dashboards & databases",
+          "ar": "لوحات التحكم وقواعد البيانات"
+        },
+        {
+          "en": "Workflows & administration tools",
+          "ar": "مسارات العمل وأدوات الإدارة"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 14
+    },
+    {
+      "id": "consultation",
+      "title": {
+        "en": "Business consultation",
+        "ar": "استشارة أعمال"
+      },
+      "short": {
+        "en": "One focused hour. A much clearer next step.",
+        "ar": "ساعة مركزة، وخطوة تالية أوضح."
+      },
+      "description": {
+        "en": "One focused hour. A much clearer next step. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "ساعة مركزة، وخطوة تالية أوضح. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 5,
+      "price": 500,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Current business audit",
+          "ar": "مراجعة الوضع الحالي للنشاط"
+        },
+        {
+          "en": "Customer journey & needs map",
+          "ar": "رحلة العميل وخريطة الاحتياجات"
+        },
+        {
+          "en": "Prioritised recommendations",
+          "ar": "توصيات مرتبة حسب الأولوية"
+        },
+        {
+          "en": "A practical next-step roadmap",
+          "ar": "خارطة طريق عملية"
+        }
+      ],
+      "timeline": {
+        "en": "One hour",
+        "ar": "ساعة واحدة"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 15
+    },
+    {
+      "id": "support",
+      "title": {
+        "en": "Ongoing support & maintenance",
+        "ar": "الدعم والصيانة المستمرة"
+      },
+      "short": {
+        "en": "A team to turn to, after launch too.",
+        "ar": "فريق تعتمد عليه حتى بعد الإطلاق."
+      },
+      "description": {
+        "en": "A team to turn to, after launch too. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "فريق تعتمد عليه حتى بعد الإطلاق. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 5,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Website, menu & price updates",
+          "ar": "تحديث الموقع والقوائم والأسعار"
+        },
+        {
+          "en": "Domain & hosting maintenance",
+          "ar": "صيانة النطاق والاستضافة"
+        },
+        {
+          "en": "Loyalty & automation support",
+          "ar": "دعم الولاء والأتمتة"
+        },
+        {
+          "en": "Small design & technical updates",
+          "ar": "تحديثات تصميمية وتقنية محدودة"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 16
+    },
+    {
+      "id": "integrations",
+      "title": {
+        "en": "Advanced integrations",
+        "ar": "التكاملات المتقدمة"
+      },
+      "short": {
+        "en": "Help your business tools work together.",
+        "ar": "اجعل أدوات أعمالك تعمل معاً."
+      },
+      "description": {
+        "en": "Help your business tools work together. We define the right scope for your business, design it with care, and help your team use it confidently.",
+        "ar": "اجعل أدوات أعمالك تعمل معاً. نحدد النطاق المناسب لنشاطك، ونصممه بعناية، ونساعد فريقك على استخدامه بثقة."
+      },
+      "family": 5,
+      "price": null,
+      "starting": false,
+      "deliverables": [
+        {
+          "en": "Optional EPOS & payment connections",
+          "ar": "ربط اختياري لنقاط البيع والدفع"
+        },
+        {
+          "en": "CRM, inventory & accounting",
+          "ar": "إدارة العملاء والمخزون والمحاسبة"
+        },
+        {
+          "en": "Delivery platform connections",
+          "ar": "ربط منصات التوصيل"
+        },
+        {
+          "en": "Third-party APIs & business software",
+          "ar": "واجهات الربط وبرامج الأعمال"
+        }
+      ],
+      "timeline": {
+        "en": "Agreed after a scope review",
+        "ar": "تُحدد بعد مراجعة نطاق العمل"
+      },
+      "extras": [
+        {
+          "en": "Additional scope is quoted before work begins.",
+          "ar": "يُسعّر أي نطاق إضافي قبل بدء العمل."
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is included in the price?",
+            "ar": "ما الذي يشمله السعر؟"
+          },
+          "a": {
+            "en": "The listed deliverables guide our scope. We confirm the final deliverables and quotation with you before starting.",
+            "ar": "المخرجات المذكورة توضح نطاق الخدمة. نؤكد معك المخرجات النهائية والسعر قبل البدء."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I start small and add more later?",
+            "ar": "هل يمكن البدء بخطوة صغيرة ثم التوسع؟"
+          },
+          "a": {
+            "en": "Yes. We prioritise what your business needs now and plan the next steps around it.",
+            "ar": "نعم. نرتب احتياجات نشاطك الحالية حسب الأولوية، ونبني عليها الخطوات التالية."
+          }
+        }
+      ],
+      "cta": {
+        "en": "Let’s build this",
+        "ar": "لنبدأ معاً"
+      },
+      "cover": "",
+      "gallery": [],
+      "video": "",
+      "published": true,
+      "order": 17
+    }
+  ],
+  "projects": [
+    {
+      "id": "rawn",
+      "name": "RAWN",
+      "arabic": "رَون",
+      "tagline": {
+        "en": "Slow mornings. Serious coffee.",
+        "ar": "صباح على مهل. قهوة بإتقان."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#412c23",
+      "ink": "#fff6de",
+      "accent": "#d7ff5f",
+      "style": "serif",
+      "image": "/photography/rawn.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A neighbourhood roastery built around unhurried rituals. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "محمصة حي تحتفي بطقوس القهوة الهادئة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 0,
+      "gallery": []
+    },
+    {
+      "id": "interval",
+      "name": "INTERVAL",
+      "arabic": "فاصل",
+      "tagline": {
+        "en": "A good pause in a fast city.",
+        "ar": "فاصل جميل في مدينة سريعة."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#d7ff42",
+      "ink": "#1c291c",
+      "accent": "#f6f4e8",
+      "style": "mono",
+      "image": "/photography/interval.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A sharp, energetic coffee stop for the working day. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "وجهة قهوة حيوية خلال يوم العمل. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 1,
+      "gallery": []
+    },
+    {
+      "id": "marsa",
+      "name": "marsa",
+      "arabic": "مرسى",
+      "tagline": {
+        "en": "Coffee with a coastal state of mind.",
+        "ar": "قهوة بروح الساحل."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#b8dce5",
+      "ink": "#103d64",
+      "accent": "#ec7346",
+      "style": "italic",
+      "image": "/photography/marsa.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "An airy Jeddah café with a relaxed coastal identity. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مقهى في جدة بهوية ساحلية مريحة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 2,
+      "gallery": []
+    },
+    {
+      "id": "sumac",
+      "name": "SUMAC",
+      "arabic": "سُمّاق",
+      "tagline": {
+        "en": "Made to be shared.",
+        "ar": "للّمة طعم."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#782e35",
+      "ink": "#fff1d8",
+      "accent": "#f49c48",
+      "style": "serif",
+      "image": "/photography/sumac.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A contemporary Levantine table for long family evenings. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مائدة شامية معاصرة لأمسيات العائلة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 3,
+      "gallery": []
+    },
+    {
+      "id": "saff",
+      "name": "SAFF",
+      "arabic": "صفّ",
+      "tagline": {
+        "en": "The neighbourhood comes to the table.",
+        "ar": "أهل الحي على سفرة واحدة."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#ee6034",
+      "ink": "#251b19",
+      "accent": "#f5ead6",
+      "style": "bold",
+      "image": "/photography/saff.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "Modern Saudi comfort food with an open, communal spirit. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "أطباق سعودية بروح معاصرة وأجواء تجمع الناس. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 4,
+      "gallery": []
+    },
+    {
+      "id": "nori",
+      "name": "NORI / 04",
+      "arabic": "نوري",
+      "tagline": {
+        "en": "Precision. Without the ceremony.",
+        "ar": "إتقان بلا تكلّف."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#e5e5df",
+      "ink": "#18362d",
+      "accent": "#ed4934",
+      "style": "mono",
+      "image": "/photography/nori.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "An understated Japanese counter focused on craft. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مطعم ياباني بسيط يركز على الحرفة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 5,
+      "gallery": []
+    },
+    {
+      "id": "ember",
+      "name": "EMBER",
+      "arabic": "جمر",
+      "tagline": {
+        "en": "Straight from the fire.",
+        "ar": "من الجمر مباشرة."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#292724",
+      "ink": "#f2d3a7",
+      "accent": "#e56736",
+      "style": "bold",
+      "image": "/photography/ember.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A fire-led grill house with textured, industrial materials. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مطعم مشاوي بخامات صناعية وملمس أصيل. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 6,
+      "gallery": []
+    },
+    {
+      "id": "limone",
+      "name": "limone!",
+      "arabic": "ليموني",
+      "tagline": {
+        "en": "A little louder. A little Italian.",
+        "ar": "نكهة إيطالية بروح مرحة."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#f4dd56",
+      "ink": "#2656a0",
+      "accent": "#f6f0df",
+      "style": "italic",
+      "image": "/photography/limone.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A playful Italian kitchen for casual gatherings. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مطبخ إيطالي مرح للجلسات العفوية. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 7,
+      "gallery": []
+    },
+    {
+      "id": "bunclub",
+      "name": "BUN CLUB",
+      "arabic": "بن كلَب",
+      "tagline": {
+        "en": "Good buns. Great company.",
+        "ar": "برجر يجمعنا."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#ff693b",
+      "ink": "#27201d",
+      "accent": "#ffebbd",
+      "style": "bold",
+      "image": "/photography/bunclub.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A punchy smash-burger club with collectible packaging. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "برجر سماش بهوية جريئة وتغليف مميز. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 8,
+      "gallery": []
+    },
+    {
+      "id": "patty-dept",
+      "name": "PATTY DEPT.",
+      "arabic": "قسم البرجر",
+      "tagline": {
+        "en": "Built properly.",
+        "ar": "على أصوله."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#244bb8",
+      "ink": "#f6f4dd",
+      "accent": "#ffdf58",
+      "style": "mono",
+      "image": "/photography/patty-dept.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A utilitarian burger workshop with a rigorous ingredient story. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "ورشة برجر تهتم بالتفاصيل والمكونات. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 9,
+      "gallery": []
+    },
+    {
+      "id": "wildbun",
+      "name": "WILD BUN",
+      "arabic": "وايلد بن",
+      "tagline": {
+        "en": "No ordinary bite.",
+        "ar": "مو لقمة عادية."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#5b256b",
+      "ink": "#ffb7d5",
+      "accent": "#bff03a",
+      "style": "italic",
+      "image": "/photography/wildbun.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "An expressive late-night burger kitchen for adventurous tastes. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "برجر ليلي بنكهات جريئة وشخصية مختلفة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 10,
+      "gallery": []
+    },
+    {
+      "id": "dallah",
+      "name": "DALLAH",
+      "arabic": "دلّة",
+      "tagline": {
+        "en": "The everyday gathering.",
+        "ar": "جمعتنا كل يوم."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#9b421f",
+      "ink": "#fff2d4",
+      "accent": "#dbc482",
+      "style": "serif",
+      "image": "/photography/dallah.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A Saudi chai house grounded in generous hospitality. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "بيت شاي سعودي بروح الضيافة والكرم. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 11,
+      "gallery": []
+    },
+    {
+      "id": "chai-line",
+      "name": "CHAI LINE",
+      "arabic": "خط الشاي",
+      "tagline": {
+        "en": "Your daily route, improved.",
+        "ar": "محطتك اليومية الأجمل."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#114f42",
+      "ink": "#ededd4",
+      "accent": "#ef6d3e",
+      "style": "mono",
+      "image": "/photography/chai-line.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "An efficient roadside chai stop designed around quick pickup. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "محطة شاي سريعة مصممة للاستلام بسهولة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 12,
+      "gallery": []
+    },
+    {
+      "id": "samar",
+      "name": "samar",
+      "arabic": "سَمَر",
+      "tagline": {
+        "en": "Stay a little longer.",
+        "ar": "للسهرة بقية."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#242b5b",
+      "ink": "#ffcc79",
+      "accent": "#a8b8d7",
+      "style": "serif",
+      "image": "/photography/samar.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "An evening tea lounge built for conversations after sunset. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مجلس شاي مسائي للأحاديث بعد الغروب. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 13,
+      "gallery": []
+    },
+    {
+      "id": "karak-social",
+      "name": "KARAK SOCIAL",
+      "arabic": "كرك سوشال",
+      "tagline": {
+        "en": "Meet over karak.",
+        "ar": "نتلاقى على كرك."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#ee9bb1",
+      "ink": "#612526",
+      "accent": "#f3d957",
+      "style": "bold",
+      "image": "/photography/karak-social.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A colourful urban karak spot with expressive takeaways. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "كرك في قلب المدينة بأكواب وهوية مليئة بالحياة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 14,
+      "gallery": []
+    },
+    {
+      "id": "miette",
+      "name": "miette",
+      "arabic": "مييت",
+      "tagline": {
+        "en": "Small things, beautifully made.",
+        "ar": "تفاصيل صغيرة، صُنعت بحب."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#d5bde0",
+      "ink": "#4b2859",
+      "accent": "#f2e9ce",
+      "style": "serif",
+      "image": "/photography/miette.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A refined patisserie with delicate paper and embossing. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "حلويات راقية بخامات ورقية ونقوش رقيقة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 15,
+      "gallery": []
+    },
+    {
+      "id": "scoop",
+      "name": "SCOOP!",
+      "arabic": "سكوب",
+      "tagline": {
+        "en": "A scoop of good days.",
+        "ar": "مغرفة من الأيام الحلوة."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#f9c347",
+      "ink": "#ca3e53",
+      "accent": "#fae9cf",
+      "style": "bold",
+      "image": "/photography/scoop.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A nostalgic ice-cream counter with sunny graphic play. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "آيس كريم بهوية مرحة تستعيد الذكريات. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 16,
+      "gallery": []
+    },
+    {
+      "id": "pressed",
+      "name": "PRESSED",
+      "arabic": "عصرة",
+      "tagline": {
+        "en": "Nothing to hide.",
+        "ar": "طبيعي، وواضح."
+      },
+      "sector": "food",
+      "type": "Concept Project",
+      "color": "#dbedc1",
+      "ink": "#165e35",
+      "accent": "#ff7539",
+      "style": "mono",
+      "image": "/photography/pressed.webp",
+      "services": [
+        "branding",
+        "websites",
+        "restaurant-tools",
+        "loyalty",
+        "whatsapp-business"
+      ],
+      "story": {
+        "en": "A transparent cold-pressed juice brand with ingredient-led labels. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "عصائر طبيعية بملصقات تركز على المكونات. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for local food lovers and everyday regulars",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Bilingual menu",
+          "ar": "قائمة ثنائية اللغة"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 17,
+      "gallery": []
+    },
+    {
+      "id": "lune",
+      "name": "LUNE",
+      "arabic": "لون",
+      "tagline": {
+        "en": "Time that belongs to you.",
+        "ar": "وقت لكِ وحدكِ."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#e8d8cf",
+      "ink": "#523b37",
+      "accent": "#9b7778",
+      "style": "serif",
+      "image": "/photography/lune.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A quiet premium salon for considered personal rituals. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "صالون راقٍ وهادئ لطقوس العناية الشخصية. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 18,
+      "gallery": []
+    },
+    {
+      "id": "forma",
+      "name": "FORMA",
+      "arabic": "فورما",
+      "tagline": {
+        "en": "Beauty, with a point of view.",
+        "ar": "جمال بشخصية."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#c43846",
+      "ink": "#fbe5dc",
+      "accent": "#f6b9ba",
+      "style": "bold",
+      "image": "/photography/forma.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A fashion-forward colour studio with editorial confidence. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "استوديو تلوين عصري بروح تحريرية واثقة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 19,
+      "gallery": []
+    },
+    {
+      "id": "petal",
+      "name": "petal room",
+      "arabic": "بتلة",
+      "tagline": {
+        "en": "A softer kind of day.",
+        "ar": "يوم أكثر لطفاً."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#c9ccec",
+      "ink": "#3d4072",
+      "accent": "#edbc67",
+      "style": "italic",
+      "image": "/photography/petal.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "An approachable neighbourhood beauty studio for everyday care. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "استوديو جمال قريب من أهل الحي للعناية اليومية. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 20,
+      "gallery": []
+    },
+    {
+      "id": "grain",
+      "name": "GRAIN",
+      "arabic": "جرين",
+      "tagline": {
+        "en": "Craft over shortcuts.",
+        "ar": "حرفة بلا اختصار."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#684938",
+      "ink": "#f4e6ce",
+      "accent": "#aaa479",
+      "style": "serif",
+      "image": "/photography/grain.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A traditional barber reimagined through timber and brass. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "حلاقة أصيلة بخامات الخشب والنحاس. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 21,
+      "gallery": []
+    },
+    {
+      "id": "district",
+      "name": "DISTRICT 07",
+      "arabic": "دستركت ٠٧",
+      "tagline": {
+        "en": "A sharper daily standard.",
+        "ar": "مستوى أدق كل يوم."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#c6c8c4",
+      "ink": "#171c22",
+      "accent": "#d6f54c",
+      "style": "mono",
+      "image": "/photography/district.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "An urban grooming studio with technical clarity. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "استوديو عناية رجالية حضري بتفاصيل دقيقة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 22,
+      "gallery": []
+    },
+    {
+      "id": "fade",
+      "name": "FADE FACTORY",
+      "arabic": "فيد فاكتوري",
+      "tagline": {
+        "en": "Fresh cut. Fresh start.",
+        "ar": "قصة جديدة، بداية جديدة."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#f0a128",
+      "ink": "#212329",
+      "accent": "#dce0df",
+      "style": "bold",
+      "image": "/photography/fade.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A youthful high-energy fade specialist. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "صالون شبابي متخصص في القصات الحديثة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 23,
+      "gallery": []
+    },
+    {
+      "id": "maqs",
+      "name": "MAQS",
+      "arabic": "مقص",
+      "tagline": {
+        "en": "Considered grooming.",
+        "ar": "عناية بتأنٍّ."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#263c66",
+      "ink": "#f0e7d5",
+      "accent": "#a56f46",
+      "style": "serif",
+      "image": "/photography/maqs.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A discreet appointment-only grooming room. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "عناية رجالية بخصوصية ونظام مواعيد. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 24,
+      "gallery": []
+    },
+    {
+      "id": "still",
+      "name": "STILL",
+      "arabic": "سكون",
+      "tagline": {
+        "en": "Return to yourself.",
+        "ar": "عُد إلى هدوئك."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#b1b8ab",
+      "ink": "#343f35",
+      "accent": "#e4d5bf",
+      "style": "serif",
+      "image": "/photography/still.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A restorative urban spa using tactile natural materials. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "سبا يستعيد الهدوء بخامات طبيعية ملموسة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 25,
+      "gallery": []
+    },
+    {
+      "id": "salt",
+      "name": "SALT / WATER",
+      "arabic": "ملح وماء",
+      "tagline": {
+        "en": "A lighter way to feel.",
+        "ar": "إحساس أخف."
+      },
+      "sector": "beauty",
+      "type": "Concept Project",
+      "color": "#c1dfdf",
+      "ink": "#215065",
+      "accent": "#f5f1e7",
+      "style": "mono",
+      "image": "/photography/salt.webp",
+      "services": [
+        "branding",
+        "websites",
+        "booking",
+        "loyalty"
+      ],
+      "story": {
+        "en": "A contemporary water-led wellness studio. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "استوديو عافية معاصر يستلهم صفاء الماء. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for clients who value a considered personal experience",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Treatment & price list",
+          "ar": "قائمة الخدمات والأسعار"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 26,
+      "gallery": []
+    },
+    {
+      "id": "rinse",
+      "name": "RINSE",
+      "arabic": "رِنس",
+      "tagline": {
+        "en": "Back to brilliant.",
+        "ar": "يرجع يلمع."
+      },
+      "sector": "services",
+      "type": "Concept Project",
+      "color": "#2285d4",
+      "ink": "#eef9ff",
+      "accent": "#d2f65a",
+      "style": "bold",
+      "image": "/photography/rinse.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A fast, precise car-care brand with a simple visit-reward system. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "عناية سيارات سريعة ودقيقة مع مكافآت للزيارات. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for busy households and business owners",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 27,
+      "gallery": []
+    },
+    {
+      "id": "fixworks",
+      "name": "FIXWORKS",
+      "arabic": "فِكس ووركس",
+      "tagline": {
+        "en": "Consider it handled.",
+        "ar": "اعتبره منجزاً."
+      },
+      "sector": "services",
+      "type": "Concept Project",
+      "color": "#f6c544",
+      "ink": "#293337",
+      "accent": "#eef0e6",
+      "style": "mono",
+      "image": "/photography/fixworks.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A practical home-maintenance team with clear service booking. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "فريق صيانة منزلية عملي بحجز خدمات واضح. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for busy households and business owners",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 28,
+      "gallery": []
+    },
+    {
+      "id": "madar",
+      "name": "MADAR",
+      "arabic": "مدار",
+      "tagline": {
+        "en": "Care that keeps things moving.",
+        "ar": "عناية تحافظ على سير يومك."
+      },
+      "sector": "services",
+      "type": "Concept Project",
+      "color": "#157b79",
+      "ink": "#e6f4ea",
+      "accent": "#f4a554",
+      "style": "bold",
+      "image": "/photography/madar.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A facility-care partner built around dependable routines. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "شريك عناية بالمرافق يعتمد على إجراءات موثوقة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for busy households and business owners",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 29,
+      "gallery": []
+    },
+    {
+      "id": "volt",
+      "name": "VOLT / CO",
+      "arabic": "فولت",
+      "tagline": {
+        "en": "Technical care. Clear answers.",
+        "ar": "عناية تقنية. حلول واضحة."
+      },
+      "sector": "services",
+      "type": "Concept Project",
+      "color": "#293aab",
+      "ink": "#f0efe5",
+      "accent": "#f5a334",
+      "style": "mono",
+      "image": "/photography/volt.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A specialist electrical and AC service with a precise identity. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "خدمات كهرباء وتكييف متخصصة بهوية دقيقة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for busy households and business owners",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 30,
+      "gallery": []
+    },
+    {
+      "id": "rukn",
+      "name": "RUKN",
+      "arabic": "رُكن",
+      "tagline": {
+        "en": "Built on considered decisions.",
+        "ar": "بناء أساسه قرارات مدروسة."
+      },
+      "sector": "construction",
+      "type": "Concept Project",
+      "color": "#d7c9b6",
+      "ink": "#34332c",
+      "accent": "#ba552e",
+      "style": "serif",
+      "image": "/photography/rukn.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A boutique construction partner for carefully detailed spaces. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "شريك مقاولات للمساحات المدروسة بعناية. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for property owners and commercial decision-makers",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 31,
+      "gallery": []
+    },
+    {
+      "id": "axis",
+      "name": "AXIS BUILD",
+      "arabic": "محور",
+      "tagline": {
+        "en": "Structure meets ambition.",
+        "ar": "طموح له أساس."
+      },
+      "sector": "construction",
+      "type": "Concept Project",
+      "color": "#ea562d",
+      "ink": "#232b31",
+      "accent": "#e7e9e4",
+      "style": "bold",
+      "image": "/photography/axis.webp",
+      "services": [
+        "branding",
+        "company-profiles",
+        "websites",
+        "business-systems"
+      ],
+      "story": {
+        "en": "A commercially focused contractor with systematic project reporting. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "مقاول للمشاريع التجارية بتقارير منظمة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for property owners and commercial decision-makers",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Capabilities & service guide",
+          "ar": "دليل الإمكانات والخدمات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 32,
+      "gallery": []
+    },
+    {
+      "id": "athar",
+      "name": "ATHAR",
+      "arabic": "أثر",
+      "tagline": {
+        "en": "Leave something beautiful.",
+        "ar": "أثر يستحق البقاء."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#563b46",
+      "ink": "#f3dcc4",
+      "accent": "#b48557",
+      "style": "serif",
+      "image": "/photography/athar.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A niche fragrance house with an intimate gifting experience. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "دار عطور متخصصة بتجربة إهداء شخصية. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 33,
+      "gallery": []
+    },
+    {
+      "id": "orbit",
+      "name": "ORBIT SUPPLY",
+      "arabic": "أوربت",
+      "tagline": {
+        "en": "Objects for the everyday future.",
+        "ar": "أشياء لمستقبل يومك."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#b4c3d3",
+      "ink": "#1c2e4c",
+      "accent": "#fb6b36",
+      "style": "mono",
+      "image": "/photography/orbit.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A curated technology-accessories store with modular product browsing. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "متجر إكسسوارات تقنية بتصفح منتجات منظم. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 34,
+      "gallery": []
+    },
+    {
+      "id": "thread",
+      "name": "THREAD THEORY",
+      "arabic": "خيط",
+      "tagline": {
+        "en": "Less, chosen better.",
+        "ar": "أقل، باختيار أجمل."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#dcd2c3",
+      "ink": "#302b2a",
+      "accent": "#963d32",
+      "style": "serif",
+      "image": "/photography/thread.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A slow-fashion label with texture-led product storytelling. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "علامة أزياء متأنية تحكي قصة الخامات. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 35,
+      "gallery": []
+    },
+    {
+      "id": "tiny",
+      "name": "tiny giants",
+      "arabic": "عمالقة صغار",
+      "tagline": {
+        "en": "Made for big little adventures.",
+        "ar": "لمغامرات صغيرة وكبيرة."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#edaa64",
+      "ink": "#513c72",
+      "accent": "#add9ca",
+      "style": "bold",
+      "image": "/photography/tiny.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A cheerful children’s lifestyle shop with playful navigation. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "متجر مرح للصغار بتجربة تصفح مليئة بالحياة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 36,
+      "gallery": []
+    },
+    {
+      "id": "terra",
+      "name": "TERRA OBJECTS",
+      "arabic": "تيرا",
+      "tagline": {
+        "en": "At home with good objects.",
+        "ar": "أشياء جميلة تشبه بيتك."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#aa603f",
+      "ink": "#faf0dd",
+      "accent": "#606a46",
+      "style": "italic",
+      "image": "/photography/terra.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A craft-led homeware store celebrating ceramics and useful objects. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "متجر أدوات منزلية يحتفي بالخزف والحرفة. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 37,
+      "gallery": []
+    },
+    {
+      "id": "pace",
+      "name": "PACE / RUN",
+      "arabic": "خطوة",
+      "tagline": {
+        "en": "Find your next gear.",
+        "ar": "اكتشف خطوتك القادمة."
+      },
+      "sector": "retail",
+      "type": "Concept Project",
+      "color": "#d8fb41",
+      "ink": "#202627",
+      "accent": "#b9c7d4",
+      "style": "bold",
+      "image": "/photography/pace.webp",
+      "services": [
+        "branding",
+        "ecommerce",
+        "client-admin"
+      ],
+      "story": {
+        "en": "A specialist running store built around movement and product guidance. An independent JOYA concept exploring how identity, customer touchpoints and useful digital tools can work as one. No client relationship or commercial results are implied.",
+        "ar": "متجر متخصص للجري يركز على الحركة واختيار المنتج. مفهوم مستقل من جويا يستكشف تكامل الهوية ونقاط التواصل والأدوات الرقمية. لا يمثل عميلاً فعلياً أو نتائج تجارية."
+      },
+      "audience": {
+        "en": "Designed for curious shoppers who appreciate thoughtful products",
+        "ar": "صُمم لجمهور يقدّر تجربة واضحة ومدروسة تناسب احتياجاته."
+      },
+      "materials": [
+        {
+          "en": "Brand signature",
+          "ar": "توقيع العلامة"
+        },
+        {
+          "en": "Identity & materials",
+          "ar": "الهوية والخامات"
+        },
+        {
+          "en": "Website experience",
+          "ar": "تجربة الموقع"
+        },
+        {
+          "en": "Mobile experience",
+          "ar": "تجربة الجوال"
+        },
+        {
+          "en": "Product catalogue",
+          "ar": "كتالوج المنتجات"
+        },
+        {
+          "en": "Packaging & stationery",
+          "ar": "التغليف والمطبوعات"
+        },
+        {
+          "en": "Team & operations",
+          "ar": "الفريق والتشغيل"
+        },
+        {
+          "en": "Space & environment",
+          "ar": "المكان والبيئة"
+        }
+      ],
+      "published": true,
+      "order": 38,
+      "gallery": []
+    }
+  ],
+  "discounts": [],
+  "bundles": [
+    {
+      "id": "launch",
+      "title": {
+        "en": "The first impression",
+        "ar": "الانطباع الأول"
+      },
+      "description": {
+        "en": "A recognisable identity and a proper place online.",
+        "ar": "هوية يعرفك بها الناس، ومكان يليق بك على الإنترنت."
+      },
+      "serviceIds": [
+        "branding",
+        "websites",
+        "whatsapp-business"
+      ],
+      "published": true
+    },
+    {
+      "id": "local",
+      "title": {
+        "en": "The neighbourhood favourite",
+        "ar": "وجهة الحي المفضلة"
+      },
+      "description": {
+        "en": "Help people find you, browse your menu and say hello.",
+        "ar": "ساعد عملاءك على الوصول إليك وتصفح قائمتك والتواصل معك."
+      },
+      "serviceIds": [
+        "websites",
+        "restaurant-tools",
+        "google-business",
+        "whatsapp-business"
+      ],
+      "published": true
+    },
+    {
+      "id": "shop",
+      "title": {
+        "en": "Open for orders",
+        "ar": "جاهز للطلبات"
+      },
+      "description": {
+        "en": "A distinct brand with a shop that makes buying easy.",
+        "ar": "علامة مختلفة ومتجر يجعل الشراء أسهل."
+      },
+      "serviceIds": [
+        "branding",
+        "ecommerce",
+        "social-starter"
+      ],
+      "published": true
+    }
+  ],
+  "pages": [],
+  "settings": {
+    "id": "general",
+    "name": "JOYA",
+    "whatsapp": "",
+    "email": "",
+    "siteUrl": "",
+    "description": {
+      "en": "Your business, beautifully put together. Design, digital presence and practical business systems for Saudi businesses.",
+      "ar": "أعمالك، بكل تفاصيلها الجميلة. تصميم وحضور رقمي وأنظمة عملية للأعمال في السعودية."
+    },
+    "consultationSlots": []
+  }
+}

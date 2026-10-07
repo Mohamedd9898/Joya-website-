@@ -1,0 +1,3 @@
+import {isFrontendPreview} from '@/lib/runtime';
+import {query} from '@/lib/db';
+export async function GET(req:Request,{params}:{params:Promise<{id:string}>}){if(isFrontendPreview())return new Response('Not found',{status:404});const {id}=await params;const r=await query('SELECT entity,data FROM records WHERE id=$1 AND entity IN (\'media\',\'media-data\')',[id]);const meta=r.rows.find(x=>x.entity==='media')?.data;const file=r.rows.find(x=>x.entity==='media-data')?.data;if(!meta||!file)return new Response('Not found',{status:404});return new Response(Buffer.from(file.bytes,'base64'),{headers:{'Content-Type':meta.mime,'Cache-Control':'public, max-age=86400','X-Content-Type-Options':'nosniff'}});}
